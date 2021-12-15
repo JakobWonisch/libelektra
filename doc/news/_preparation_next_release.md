@@ -33,6 +33,7 @@ docker run -it elektra/elektra
 
 ## Highlights
 
+- I changed something in libelektra!
 - <<HIGHLIGHT1>>
 - <<HIGHLIGHT2>>
 - <<HIGHLIGHT3>>
